@@ -1,0 +1,5 @@
+{
+  "name": "ComicReadMe: README to Comic Converter",
+  "description": "A web app that transforms any GitHub README into a fully illustrated comic-style instruction manual using Google's Gemini and Imagen APIs.",
+  "requestFramePermissions": []
+}
