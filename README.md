@@ -90,6 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- Brainstormed with Microsoft Copilot
 - Powered by Google's Gemini AI
 - Built with React and Vite
 - Inspired by the need for more engaging technical documentation
